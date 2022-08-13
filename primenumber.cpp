@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    //prime number problem
+    //prime number problem two
     int n;
     cin>>n;
     int flag=0;
